@@ -1,2 +1,4 @@
-This dataset size is too big
-  
+This dataset size is too big.
+So direct download from kaggle below link,
+
+  https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
